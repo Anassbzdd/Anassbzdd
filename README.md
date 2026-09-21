@@ -1,16 +1,16 @@
-## Hi there 👋
+# Anas
 
-<!--
-**Anassbzdd/Anassbzdd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+ML Student · Member, GDG on Campus Universiapolis
 
-Here are some ideas to get you started:
+I build practical ML projects and I’m learning LLM training and inference systems.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Highlights
+
+- Built [FitCheck](https://github.com/Anassbzdd/fitcheck), a tool for estimating LLM GPU VRAM requirements.
+- Learning LLM inference, serving systems, and C++.
+- Building in public and preparing to contribute to open source.
+
+## Links
+
+- [LinkedIn](https://www.linkedin.com/in/anas-bouzid/)
+- [X ](https://x.com/mlanvvs)
