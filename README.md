@@ -8,7 +8,7 @@ I build practical ML projects and I’m learning LLM training and inference syst
 
 - Built [FitCheck](https://github.com/Anassbzdd/fitcheck), a tool for estimating LLM GPU VRAM requirements.
 - Learning LLM inference, serving systems, and C++.
-- Building in public and preparing to contribute to open source.
+- Building in public and exploring open-source ML infrastructure.
 
 ## Links
 
