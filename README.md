@@ -14,3 +14,4 @@ I build practical ML projects and I’m learning LLM training and inference syst
 
 - [LinkedIn](https://www.linkedin.com/in/anas-bouzid/)
 - [X ](https://x.com/mlanvvs)
+- [Hugging Face](https://huggingface.co/mlanvvs)
